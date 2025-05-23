@@ -1,0 +1,21 @@
+table{
+    font-family:Arial, Helvetica, sans-serif;
+    border-collapse: separate;
+    border-width: 2px;
+    border-style:solid;
+    border-color:#000000;
+    width: 100%;
+}
+
+th{
+    font-weight: 900;
+    font-size: larger;
+    background-color: #e2dfdf;
+    color: #3f5569;
+    text-decoration: none;
+}
+
+tr:hover{
+    background-color: #cacccc;
+}
+
